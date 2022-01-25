@@ -1,0 +1,42 @@
+Image Processing: 
+it is method to convert an image into digital form and perform some operation on it.
+Here we use numpy array to do so
+
+KERAS: it is a easy to use python library for developing and evaluating deep learning model
+
+ML vs DL : DL can analys IMAGE,VIDEO and unstructured data but ML can not easily do.
+           ML is about computers being able to think and act with less human intervention
+           DL is about computers learning to think using structure modeled on the human brain
+
+
+NumPy: is a array-processing package that deals with multidimensional array/ matrix                   
+       in very less time, as it provides high performance objects and tools to do so.
+       since python is bit slow , therefore it takes time to process multi dimensnl array
+       here Numpy helps to do this in much more faster way.
+
+OpenCV:  is a huge open-source library for computer vision, machine learning, and image processing
+         It can PROCESS IMAGES AND VIDEOS TO IDENTIFY OBJECTS, faces, or even the handwriting of a human
+         cv2.imread() method loads an image from the specified file
+         returns matrix of image  if present else return empty matrix that shows us ERROR
+
+ADAM Optimizer : Adam is an optimization algorithm that is used to update network weights (iterative) based
+                 in training data
+
+SkiImage: it is used to deal with image dimensions related operation 
+          like Crop, Resize [  It includes algorithms for segmentation, geometric transformations,
+          filtering,feature detection, and more.]
+
+Tensorflow : TensorFlow provides a collection of workflows to develop and train models using Python
+             for fast numerical computing.
+             It allows to create large-scale neural networks with many layers.
+             Here we used it for PREDICTION 
+
+MatPlotLib  : it is used to plot figures
+              Matplotlib supports various types of graphical representations like Bar Graphs,
+              Histograms, Line Graph etc.
+
+Pickle : Python pickle module is used for serializing and de-serializing a Python object structure. Any object in
+        Python can be pickled so that it can be saved on disk. What pickle does is that it “serializes” the object
+        first before writing it to file.
+
+        SERIALIZATION is the process of converting an object into a stream of bytes to store the object or transmit it to memory
